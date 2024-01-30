@@ -1,6 +1,6 @@
-These are some basic python programs containing topics like
+These are some basic python programs containing topics like -
 
-Some basic beginner programs in Python
+Beginner programs in Python
 List, 
 Array, 
 Matrix, 
