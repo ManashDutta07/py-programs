@@ -5,5 +5,5 @@ List,
 Array, 
 Matrix, 
 Strings, 
-Touples and 
+Tuples and 
 Dictionary etc.
