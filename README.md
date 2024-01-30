@@ -1,4 +1,4 @@
-These are some basic python programs which contains topics like
+These are some basic python programs containing topics like
 
 Some basic beginner programs in Python
 List, 
