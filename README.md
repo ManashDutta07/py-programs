@@ -1,8 +1,8 @@
 These are some basic python programs containing topics like -
 
-List, 
-Array, 
-Matrix, 
-Strings, 
-Tuples and 
-Dictionary etc.
+1. List
+2. Array
+3. Matrix
+4. Strings 
+5. Tuples 
+6. Dictionary
