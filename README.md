@@ -5,4 +5,4 @@ These are some basic python programs containing topics like -
 3. Matrix
 4. Strings 
 5. Tuples 
-6. Dictionary
+6. Dictionary etc.
