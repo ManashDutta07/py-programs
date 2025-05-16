@@ -1,4 +1,4 @@
-These are some basic python programs containing topics like -
+Python Programs which includes topics like - 
 
 1. List
 2. Array
